@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	id="com.venkat.plugins.notification"
+	version="2.0.4"
+	onLoad="true" >
+
+	<name>Venkat</name>
+	<author>Venka Tesh G</author>
+
+	<platform name="android">
+		<resource-file src="www/icon_72.png" target="res/drawable/icon_72.png" />
+	</platform>
+
+	
+</plugin>
