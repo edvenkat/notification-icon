@@ -9,8 +9,7 @@
 	<author>Venka Tesh G</author>
 
 	<platform name="android">
-		<resource-file src="www/icon_72.png" target="res/drawable/icon_72.png" />
+		<resource-file src="www/icon.png" target="res/drawable/icon.png" />
+		<resource-file src="www/icon.png" target="res/drawable-hdpi/icon.png" />
 	</platform>
-
-	
 </plugin>
