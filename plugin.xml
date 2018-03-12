@@ -10,11 +10,11 @@
 
 	<platform name="android">
 		<resource-file src="www/icon.png" target="res/drawable/icon.png" />
-		<resource-file src="www/icon.png" target="res/drawable-ldpi/icon.png" />
+		<!-- <resource-file src="www/icon.png" target="res/drawable-ldpi/icon.png" />
 		<resource-file src="www/icon.png" target="res/drawable-mdpi/icon.png" />
 		<resource-file src="www/icon.png" target="res/drawable-hdpi/icon.png" />
 		<resource-file src="www/icon.png" target="res/drawable-xhdpi/icon.png" />
 		<resource-file src="www/icon.png" target="res/drawable-xxhdpi/icon.png" />
-		<resource-file src="www/icon.png" target="res/drawable-xxxhdpi/icon.png" />
+		<resource-file src="www/icon.png" target="res/drawable-xxxhdpi/icon.png" /> -->
 	</platform>
 </plugin>
