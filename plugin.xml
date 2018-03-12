@@ -9,7 +9,7 @@
 	<author>Venka Tesh G</author>
 
 	<platform name="android">
-		<resource-file src="www/icon.png" target="res/drawable/icon.png" />
+		<resource-file src="www/wuicon.png" target="res/drawable/wuicon.png" />
 		<!-- <resource-file src="www/icon.png" target="res/drawable-ldpi/icon.png" />
 		<resource-file src="www/icon.png" target="res/drawable-mdpi/icon.png" />
 		<resource-file src="www/icon.png" target="res/drawable-hdpi/icon.png" />
